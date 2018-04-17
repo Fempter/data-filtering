@@ -5,10 +5,6 @@ Filtering data using Pandas
 
 
 1. Po PESEL, który będzie nazwą pliku (Patient name) będziemy wciągać surowe dane do naszej bazy danych. <br />
-   1. SubItemA
-   2. SubItemB
-      - wat
-        - hi
 2. Do analizy nie bierzemy pomiarów mających inny znacznik niż „0” w pozycji „ERR” - error lub „EXC” - exclude <br />
 3. Do naszej bazy danych chcemy, żeby system wyliczał i prezentował następujące parametry: <br />
     1. średnia i SD z całego okresu pomiaru dla: <br />
